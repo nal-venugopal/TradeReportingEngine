@@ -1,0 +1,5 @@
+Entity, Buy/Sell, AgreedFx, Currency, InstructionDate, SettlementDate, Units, Price per unit 
+Entity1, B,0.5,SGD,1-Jun-18,4-Jun-18,200,100.25
+Entity2, S,0.22, AED,4-Sep-18,5-Sep-18,450,150.5
+Entity3, B,0.5,EUR,1-Jun-18,4-Jun-18,200,80.25
+Entity4, S,0.32, SAR,4-Jul-18,5-Jul-18,250,100.5
